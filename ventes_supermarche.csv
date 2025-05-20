@@ -1,0 +1,101 @@
+Date,Produit,Catégorie,Prix Unitaire,Quantité,Total,Client,Ville,Moyen de Paiement
+2025-03-26,Huile,Boissons,2589.78,3,7769.34,Tommy Torres,Kennedyport,Carte bancaire
+2024-11-24,Jus,Boissons,3083.11,4,12332.44,Stacy Pena,Riddleshire,Mobile Money
+2025-01-05,Riz,Alimentaire,1380.88,2,2761.76,Keith Alvarez,Anthonyborough,Carte bancaire
+2025-04-27,Jus,Boissons,1424.47,8,11395.76,Christopher Barnes,East Nicole,Espèce
+2024-11-25,Sucre,Alimentaire,3194.82,8,25558.56,Peter Hudson,New Anthony,Carte bancaire
+2025-01-19,Jus,Boissons,4608.39,4,18433.56,Mathew Sutton,Wallmouth,Carte bancaire
+2025-02-23,Jus,Boissons,2180.75,3,6542.25,Dr. Benjamin Rojas Jr.,West Devin,Espèce
+2025-03-06,Lait,Boissons,2673.98,2,5347.96,Damon Sosa,Kathrynchester,Carte bancaire
+2024-12-25,Biscuit,Boissons,3883.48,7,27184.36,Mark Kennedy,Johnsonhaven,Mobile Money
+2025-03-14,Pâtes,Alimentaire,1754.96,10,17549.6,Erik Davis,Bridgeshaven,Espèce
+2025-04-07,Lait,Boissons,2969.49,1,2969.49,Michael Miller,South Kaylee,Mobile Money
+2025-04-02,Pâtes,Alimentaire,911.5,3,2734.5,Frank Murray,Sanchezport,Carte bancaire
+2025-02-12,Sucre,Alimentaire,1945.85,2,3891.7,Jon Smith,Austinmouth,Mobile Money
+2025-04-26,Riz,Alimentaire,543.97,4,2175.88,Debra Morton,Brownfurt,Espèce
+2025-04-07,Huile,Boissons,2073.53,2,4147.06,Amber Suarez,New Annchester,Carte bancaire
+2025-01-13,Eau,Boissons,4963.09,6,29778.54,Dave Jones,South Lisa,Carte bancaire
+2024-11-20,Pâtes,Alimentaire,2762.11,9,24858.99,Teresa Peters,North Vanessa,Espèce
+2025-03-17,Huile,Boissons,1148.66,1,1148.66,Michael Johnson,Montesfurt,Mobile Money
+2024-12-31,Jus,Boissons,3013.53,7,21094.71,Laurie Brady,Charleschester,Espèce
+2025-02-21,Lait,Boissons,4733.53,6,28401.18,Henry Wall,New Timothyville,Espèce
+2024-12-16,Lait,Boissons,693.71,1,693.71,John Maldonado,North Paula,Carte bancaire
+2024-12-08,Jus,Boissons,2532.03,5,12660.15,Sarah Mcguire,Copelandport,Mobile Money
+2025-04-10,Jus,Boissons,1853.74,10,18537.4,Ricky Johnson,East Alexandrachester,Espèce
+2025-05-05,Jus,Boissons,4066.38,3,12199.14,Willie Mitchell,Lake John,Carte bancaire
+2024-12-13,Jus,Boissons,3392.73,10,33927.3,Dustin Rosales,Pricemouth,Mobile Money
+2025-02-09,Lait,Boissons,1554.52,3,4663.56,Jimmy Murray,Tamimouth,Mobile Money
+2024-11-21,Pâtes,Alimentaire,2565.46,6,15392.76,Heather Johnston,South Sarahview,Mobile Money
+2025-05-06,Sucre,Alimentaire,4252.86,9,38275.74,Chelsea Mullen,East Toddhaven,Mobile Money
+2025-05-08,Lait,Boissons,2778.66,2,5557.32,Taylor Jenkins,Rachelshire,Mobile Money
+2024-12-05,Lait,Boissons,4253.58,7,29775.06,Gary Kelley,Port Matthewfort,Mobile Money
+2025-03-31,Pâtes,Alimentaire,1125.3,2,2250.6,Nathan Vazquez,Rodriguezchester,Espèce
+2025-02-02,Riz,Alimentaire,4383.47,8,35067.76,Charles Li,Judithburgh,Carte bancaire
+2025-02-25,Jus,Boissons,4360.21,10,43602.1,Mr. Jonathan Adams MD,Edwardfurt,Carte bancaire
+2025-02-18,Eau,Boissons,4512.91,7,31590.37,Sonia Peck,Taylorhaven,Carte bancaire
+2024-12-31,Sucre,Alimentaire,4960.78,5,24803.9,James Cummings,South Richardland,Espèce
+2025-03-09,Eau,Boissons,2666.96,7,18668.72,Kayla Moore,Davidport,Espèce
+2025-05-17,Huile,Boissons,1769.79,10,17697.9,Mary Reynolds,South Jorge,Espèce
+2025-02-18,Riz,Alimentaire,3094.41,3,9283.23,Mary Woods,East Cynthia,Mobile Money
+2024-11-26,Huile,Boissons,4593.49,5,22967.45,Jordan Walker,Campbellborough,Espèce
+2025-03-06,Savon,Hygiène,2926.6,1,2926.6,Anthony Kelley,South Matthew,Carte bancaire
+2024-11-18,Biscuit,Boissons,3670.74,6,22024.44,Brandon Hawkins,Thomasbury,Carte bancaire
+2025-04-24,Savon,Hygiène,2648.51,3,7945.53,James Mathis,Jacobbury,Espèce
+2025-04-23,Sucre,Alimentaire,2271.13,1,2271.13,Megan Carter,Steinhaven,Espèce
+2025-02-19,Savon,Hygiène,4812.74,1,4812.74,Brian Foster,Kaylaburgh,Espèce
+2024-12-23,Pâtes,Alimentaire,1256.4,6,7538.4,Courtney Hawkins,Elizabethview,Carte bancaire
+2025-02-12,Pâtes,Alimentaire,1712.51,1,1712.51,Crystal Williams,East Karentown,Espèce
+2025-04-21,Lait,Boissons,828.65,5,4143.25,Maria Meyer,Port Albertfort,Espèce
+2025-04-08,Lait,Boissons,3390.61,6,20343.66,Christina Beasley,Michaelport,Carte bancaire
+2025-04-23,Pâtes,Alimentaire,2250.21,10,22502.1,Eric White,North Patrick,Carte bancaire
+2025-02-07,Huile,Boissons,3568.18,4,14272.72,Derrick Lee,Christopherview,Espèce
+2025-03-11,Eau,Boissons,1241.13,3,3723.39,Karen Barrett,Walltown,Mobile Money
+2025-01-20,Eau,Boissons,4729.21,9,42562.89,Michele Lee,Mccoyhaven,Mobile Money
+2025-02-06,Eau,Boissons,1368.74,6,8212.44,Paula Harris,South Mirandamouth,Carte bancaire
+2025-04-03,Biscuit,Boissons,1368.08,1,1368.08,John Adkins,New Daniel,Carte bancaire
+2025-02-11,Riz,Alimentaire,4736.34,4,18945.36,Sandra Nelson,Lake Samanthaport,Espèce
+2025-03-01,Jus,Boissons,1275.9,3,3827.7,Erika Tucker,East Patriciahaven,Espèce
+2025-03-22,Biscuit,Boissons,4464.33,7,31250.31,David Taylor,Georgehaven,Carte bancaire
+2024-12-16,Huile,Boissons,2788.76,8,22310.08,Shannon Dominguez,Mackmouth,Carte bancaire
+2025-04-07,Eau,Boissons,2859.81,1,2859.81,Kayla Wells,Michaelborough,Carte bancaire
+2025-02-27,Eau,Boissons,3701.86,6,22211.16,Jenna Jackson,West Jennifer,Mobile Money
+2024-12-01,Pâtes,Alimentaire,3658.21,9,32923.89,Stephanie Morales,Oliverbury,Mobile Money
+2025-02-07,Savon,Hygiène,2126.22,7,14883.54,Hannah Bryant,Lake Jeffrey,Carte bancaire
+2025-03-23,Riz,Alimentaire,2851.01,8,22808.08,Jason Watson,Katelynbury,Carte bancaire
+2024-12-10,Huile,Boissons,4106.64,2,8213.28,Dr. Ross Garza,West Adam,Mobile Money
+2024-12-27,Huile,Boissons,1198.27,2,2396.54,Stephanie King MD,Edgarburgh,Espèce
+2024-11-20,Sucre,Alimentaire,1670.37,2,3340.74,Benjamin Wolfe,Fullerside,Espèce
+2025-04-06,Biscuit,Boissons,2262.53,9,20362.77,Jennifer Henderson,Petersonburgh,Espèce
+2025-03-07,Savon,Hygiène,1453.13,8,11625.04,Steven Mason,Walterfurt,Carte bancaire
+2025-02-15,Savon,Hygiène,3791.47,9,34123.23,Shari Alexander,Ruizside,Carte bancaire
+2025-05-13,Biscuit,Boissons,4571.87,1,4571.87,Cheryl Johnson,West John,Espèce
+2024-12-14,Sucre,Alimentaire,4448.85,6,26693.1,Michael Davies,West Johnhaven,Espèce
+2025-03-09,Pâtes,Alimentaire,4608.67,10,46086.7,Dominique Dunn,Chamberschester,Mobile Money
+2025-05-02,Eau,Boissons,1054.41,7,7380.87,Beth Gordon,West Jennifer,Carte bancaire
+2024-11-20,Jus,Boissons,1493.83,1,1493.83,Michael Rollins,Williamsland,Mobile Money
+2024-12-28,Pâtes,Alimentaire,3924.97,5,19624.85,Jason Payne,Lake Mariahaven,Espèce
+2025-05-18,Riz,Alimentaire,3874.78,10,38747.8,Brent Stewart,New Kyleborough,Carte bancaire
+2025-01-22,Riz,Alimentaire,512.01,8,4096.08,Mr. Todd Marks,North Zachary,Mobile Money
+2025-04-27,Huile,Boissons,1767.23,4,7068.92,Noah Rogers,Gregoryfurt,Mobile Money
+2025-04-11,Lait,Boissons,3163.15,2,6326.3,Olivia Campbell,North Sean,Mobile Money
+2025-04-01,Pâtes,Alimentaire,2926.24,4,11704.96,Tracy Taylor,Pachecobury,Mobile Money
+2025-04-29,Biscuit,Boissons,1507.51,1,1507.51,Carol Thompson,Lucasstad,Espèce
+2024-12-17,Biscuit,Boissons,4199.28,6,25195.68,Caitlin Rogers,Chloeside,Espèce
+2025-04-03,Lait,Boissons,2779.03,6,16674.18,Jason Reyes,Woodmouth,Espèce
+2024-12-29,Huile,Boissons,1985.47,10,19854.7,Benjamin Smith,Josefurt,Mobile Money
+2025-01-21,Jus,Boissons,4080.85,2,8161.7,Clarence Bishop,Port Amyberg,Carte bancaire
+2025-02-01,Pâtes,Alimentaire,3403.32,9,30629.88,Nancy Allen,Port Justinhaven,Mobile Money
+2024-12-18,Biscuit,Boissons,4836.09,9,43524.81,Thomas Smith,Bartonmouth,Carte bancaire
+2025-02-28,Huile,Boissons,3198.46,5,15992.3,John Molina,East Bryan,Carte bancaire
+2024-12-31,Sucre,Alimentaire,2630.33,8,21042.64,Debra Hill,New Kathleenfurt,Mobile Money
+2025-04-27,Lait,Boissons,2101.74,9,18915.66,Leslie Melendez,West Jennifer,Espèce
+2025-04-03,Savon,Hygiène,698.11,3,2094.33,Kyle Williams,Kevinmouth,Espèce
+2025-01-05,Huile,Boissons,4801.86,2,9603.72,John Farmer,Nicolestad,Mobile Money
+2025-01-08,Sucre,Alimentaire,2154.85,8,17238.8,Mitchell Ali,Jordanburgh,Espèce
+2025-03-08,Savon,Hygiène,2533.63,4,10134.52,Kathryn Chaney,North Lindaborough,Espèce
+2024-11-20,Jus,Boissons,3744.42,4,14977.68,Douglas Johnson,Brianbury,Espèce
+2025-01-03,Sucre,Alimentaire,995.63,3,2986.89,Daniel Downs,West Pennybury,Espèce
+2024-12-22,Sucre,Alimentaire,2211.64,9,19904.76,Mitchell Carter,Simstown,Carte bancaire
+2025-04-18,Sucre,Alimentaire,4259.98,5,21299.9,Hannah Jones,Port Albert,Espèce
+2025-03-09,Pâtes,Alimentaire,2342.21,5,11711.05,James Olson,Murphyhaven,Carte bancaire
+2025-05-01,Biscuit,Boissons,4639.36,3,13918.08,Jacob Gardner,Port Darleneview,Carte bancaire

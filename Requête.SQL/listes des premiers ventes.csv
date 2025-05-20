@@ -1,0 +1,11 @@
+id,date,produit,categorie,quantite,prix_unitaire,montant_total,vendeur,ville,mode_paiement
+1,2025-03-26,Huile,Boissons,3,2589.78,7769.34,"Tommy Torres",Kennedyport,"Carte bancaire"
+2,2024-11-24,Jus,Boissons,4,3083.11,12332.44,"Stacy Pena",Riddleshire,"Mobile Money"
+3,2025-01-05,Riz,Alimentaire,2,1380.88,2761.76,"Keith Alvarez",Anthonyborough,"Carte bancaire"
+4,2025-04-27,Jus,Boissons,8,1424.47,11395.76,"Christopher Barnes","East Nicole",EspÃ¨ce
+5,2024-11-25,Sucre,Alimentaire,8,3194.82,25558.56,"Peter Hudson","New Anthony","Carte bancaire"
+6,2025-01-19,Jus,Boissons,4,4608.39,18433.56,"Mathew Sutton",Wallmouth,"Carte bancaire"
+7,2025-02-23,Jus,Boissons,3,2180.75,6542.25,"Dr. Benjamin Rojas Jr.","West Devin",EspÃ¨ce
+8,2025-03-06,Lait,Boissons,2,2673.98,5347.96,"Damon Sosa",Kathrynchester,"Carte bancaire"
+9,2024-12-25,Biscuit,Boissons,7,3883.48,27184.36,"Mark Kennedy",Johnsonhaven,"Mobile Money"
+10,2025-03-14,PÃ¢tes,Alimentaire,10,1754.96,17549.60,"Erik Davis",Bridgeshaven,EspÃ¨ce
