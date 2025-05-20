@@ -1,4 +1,4 @@
-Date,Produit,Catégorie,Prix Unitaire,Quantité,Total,Client,Ville,Moyen de Paiement
+Date,Produit,Catégorie,Prix Unitaire,Quantité,Total,vendeur,Ville,Moyen de Paiement
 2025-03-26,Huile,Boissons,2589.78,3,7769.34,Tommy Torres,Kennedyport,Carte bancaire
 2024-11-24,Jus,Boissons,3083.11,4,12332.44,Stacy Pena,Riddleshire,Mobile Money
 2025-01-05,Riz,Alimentaire,1380.88,2,2761.76,Keith Alvarez,Anthonyborough,Carte bancaire
